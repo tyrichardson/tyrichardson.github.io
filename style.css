@@ -21,17 +21,17 @@ h1 {
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 26px;
 	margin-bottom: -6px;
 }
 
 h3 {
-	font-size: 26px;
+	font-size: 22px;
 	margin-bottom: -10px;
 }
 
 h4 {
-	font-size: 22px;
+	font-size: 18px;
 	margin-bottom: -10px;
 }
 
@@ -40,11 +40,5 @@ li {
 	text-align: left;
 }
 
-#button {
-	margin-left: 40%;
-	margin-right: 40%;
-	background-color: #C4CECD;
 
-	border-radius: 15px;
-	height: 100px;
 }
